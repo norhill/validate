@@ -1,0 +1,10 @@
+[
+  {
+    "id": "document",
+    "name": "Document Validation",
+    "description": "Validate documents by their validation ID. Check if a document is valid and if it's the latest version.",
+    "path": "document",
+    "icon": "📄",
+    "exampleId": "A8CS42"
+  }
+]
