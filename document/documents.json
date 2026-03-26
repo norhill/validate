@@ -40,7 +40,7 @@
     "validationId": "CL29A8",
     "version": "1.0.0",
     "date": "2026-03-23T15:37:36Z",
-    "documentName": "AVROP 1 - AVTALSNUMMER NHA-26-001",
+    "documentName": "SPECIFIKT KONSULTAVTAL - AVTALSNUMMER NHA-26-002",
     "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
     "url": ""
   },
@@ -50,6 +50,15 @@
     "version": "1.0.0",
     "date": "2026-03-23T15:37:36Z",
     "documentName": "Roadmap eller backlog? One-pager",
+    "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
+    "url": ""
+  },
+  {
+    "documentId": "DOC-137",
+    "validationId": "A892FF",
+    "version": "1.0.0",
+    "date": "2026-02-12T19:38:01Z",
+    "documentName": "Sekretessavtal",
     "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
     "url": ""
   }
