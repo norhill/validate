@@ -36,8 +36,17 @@
     "url": ""
   },
   {
-    "documentId": "NHA-26-002",
+    "documentId": "NHA-26-001-1",
     "validationId": "CL29A8",
+    "version": "1.0.0",
+    "date": "2026-03-26T20:18:41Z",
+    "documentName": "AVROP 1 - AVTALSNUMMER NHA-26-002",
+    "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
+    "url": ""
+  },
+  {
+    "documentId": "NHA-26-002",
+    "validationId": "OIJF93",
     "version": "1.0.0",
     "date": "2026-03-26T20:18:41Z",
     "documentName": "SPECIFIKT KONSULTAVTAL - AVTALSNUMMER NHA-26-002",
