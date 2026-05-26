@@ -79,5 +79,14 @@
     "documentName": "SPECIFIKT KONSULTAVTAL - AVTALSNUMMER NHA-26-003",
     "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
     "url": ""
+  },
+  {
+    "documentId": "NHA-26-004",
+    "validationId": "LEFY21",
+    "version": "1.0.0",
+    "date": "2026-05-25T18:15:38Z",
+    "documentName": "TILLÄGG TILL SPECIFIKT KONSULTAVTAL NHA-26-002: PRODUKT- OCH SYSTEMARKITEKTUR",
+    "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
+    "url": ""
   }
 ]
