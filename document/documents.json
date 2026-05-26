@@ -51,7 +51,8 @@
     "date": "2026-03-30T20:18:41Z",
     "documentName": "SPECIFIKT KONSULTAVTAL - AVTALSNUMMER NHA-26-002",
     "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
-    "url": ""
+    "url": "",
+    "status": "accepted"
   },
   {
     "documentId": "DOC-136",
@@ -69,7 +70,8 @@
     "date": "2026-03-25T19:38:01Z",
     "documentName": "Sekretessavtal",
     "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
-    "url": ""
+    "url": "",
+    "status": "accepted"
   },
   {
     "documentId": "NHA-26-003",
@@ -78,7 +80,8 @@
     "date": "2026-05-18T07:15:37Z",
     "documentName": "SPECIFIKT KONSULTAVTAL - AVTALSNUMMER NHA-26-003",
     "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
-    "url": ""
+    "url": "",
+    "status": "draft"
   },
   {
     "documentId": "NHA-26-004",
@@ -87,6 +90,7 @@
     "date": "2026-05-25T18:15:38Z",
     "documentName": "TILLÄGG TILL SPECIFIKT KONSULTAVTAL NHA-26-002: PRODUKT- OCH SYSTEMARKITEKTUR",
     "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
-    "url": ""
+    "url": "",
+    "status": "sent"
   }
 ]
