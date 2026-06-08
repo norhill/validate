@@ -91,6 +91,16 @@
     "documentName": "TILLÄGG TILL SPECIFIKT KONSULTAVTAL NHA-26-002: PRODUKT- OCH SYSTEMARKITEKTUR",
     "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
     "url": "",
-    "status": "sent"
+    "status": "accepted"
+  },
+  {
+    "documentId": "NHA-26-005",
+    "validationId": "IIUE33",
+    "version": "1.0.0",
+    "date": "2026-06-10T07:13:12Z",
+    "documentName": "SPECIFIKT KONSULTAVTAL - AVTALSNUMMER NHA-26-005",
+    "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
+    "url": "",
+    "status": "draft"
   }
 ]
