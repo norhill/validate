@@ -101,6 +101,16 @@
     "documentName": "SPECIFIKT KONSULTAVTAL - AVTALSNUMMER NHA-26-005",
     "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
     "url": "",
+    "status": "rejected"
+  },
+  {
+    "documentId": "NHA-26-005",
+    "validationId": "YIAS35",
+    "version": "2.0.0",
+    "date": "2026-06-25T19:24:42Z",
+    "documentName": "SPECIFIKT KONSULTAVTAL - AVTALSNUMMER NHA-26-005",
+    "contact": "Contact Ingemar Norberg: https://www.linkedin.com/in/inorberg/",
+    "url": "",
     "status": "draft"
   }
 ]
