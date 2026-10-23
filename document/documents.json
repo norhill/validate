@@ -142,5 +142,35 @@
     "contact": "Contact Ingemar Norberg: https://norhill.se/contact",
     "url": "",
     "status": "accepted"
-  }
+  },
+  {
+    "documentId": "NHA-26-008",
+    "validationId": "WIPA14",
+    "version": "1.0.0",
+    "date": "2026-10-23T13:25:12Z",
+    "documentName": "Framework Agreement - AVTALSNUMMER NHA-26-008",
+    "contact": "Contact Ingemar Norberg: https://norhill.se/contact",
+    "url": "",
+    "status": "draft"
+  },
+  {
+    "documentId": "NHA-26-008:1",
+    "validationId": "BYSL43",
+    "version": "1.0.0",
+    "date": "2026-10-23T13:25:12Z",
+    "documentName": "Statement of Work - Phase 1 Start and Plan - AVTALSNUMMER NHA-26-008:1",
+    "contact": "Contact Ingemar Norberg: https://norhill.se/contact",
+    "url": "",
+    "status": "draft"
+  },
+  {
+    "documentId": "NHA-26-008:2",
+    "validationId": "PLWR94",
+    "version": "1.0.0",
+    "date": "2026-10-23T13:25:12Z",
+    "documentName": "Statement of Work - Phase 1 Delivery - AVTALSNUMMER NHA-26-008:2",
+    "contact": "Contact Ingemar Norberg: https://norhill.se/contact",
+    "url": "",
+    "status": "draft"
+  },
 ]
